@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "parchment": "^1.1.2"
+        "parchment": "https://github.com/buu700/parchment-tmp"
     }
 }
